@@ -22,3 +22,8 @@ Average by Age Group for Specific Region: <br/>
 <img src="https://i.imgur.com/SLtcShG.png" height="80%" width="80%" alt="Code Output:"/>
 <br />
 
+<p align="center">
+Comparing Prevalance of Diabetes Across Regions: <br/>
+<img src="https://i.imgur.com/chjlPZm.png" height="80%" width="80%" alt="Code Output:"/>
+<br />
+
